@@ -43,7 +43,7 @@ When the epee is plugged in, and a hit is made, the devices switches to epee tes
 
 
 # Hardware of the tester
-The tester consists of a 3D printed enclosure (see). I use brass inserts (M2 for the PCB and M6 to fix the piece of lamé. The display is made from a 5x5 WS2812B led matrix, fixed to the top pannel.
+The tester consists of a 3D printed enclosure (see https://www.printables.com/model/1006755-body-wire-weapon-test-box). I use brass inserts (M2 for the PCB and M6 to fix the piece of lamé. The display is made from a 5x5 WS2812B led matrix, fixed to the top pannel.
 The main PCB is the same as for the [3-weapon scoring device](https://github.com/pietwauters/esp32_scoring_device_hardware)
 
 ![image](https://github.com/user-attachments/assets/35de2eb8-d56a-4edc-a73d-227cd0f82c77)
