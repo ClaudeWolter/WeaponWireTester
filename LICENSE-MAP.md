@@ -1,5 +1,3 @@
-# License Map
-
 # License Map — WeaponWireTester
 
 **Repository:** https://github.com/pietwauters/WeaponWireTester  
