@@ -48,4 +48,20 @@ The main PCB is the same as for the [3-weapon scoring device](https://github.com
 
 ![image](https://github.com/user-attachments/assets/35de2eb8-d56a-4edc-a73d-227cd0f82c77)
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/d95e0430-76b3-4548-81e5-733bd35f0fec)
+
+
+
+## Licensing
+
+- **Software**: Apache-2.0  
+- **Hardware designs & docs**: CC BY-NC-SA 4.0 (remix allowed, attribution + share-alike, non-commercial)  
+- **Commercial use**: Available by separate agreement — see `COMMERCIAL-LICENSING.md`.
+
+Attribution example:  
+“Based on WeaponWireTester by Piet Wauters, Claude Wolter, licensed CC BY-NC-SA 4.0.”
