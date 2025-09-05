@@ -1,5 +1,12 @@
 # License Map
 
+# License Map — WeaponWireTester
+
+**Repository:** https://github.com/pietwauters/WeaponWireTester  
+**Licensors:** © 2022–2025 Piet Wauters & Claude Wolter
+
+This repository uses multiple licenses by directory:
+
 ## Software
 - Path: `software/`
 - License: Apache-2.0
@@ -22,5 +29,9 @@
 
 ### Notes
 - “NonCommercial” means no use primarily intended for or directed toward commercial advantage or monetary compensation.
+- Producing more than 10 physical units (including remixes/derivatives), whether sold or given away, is considered commercial use and is not permitted under CC BY-NC-SA 4.0 without a separate commercial license.
 - This setup is **not** OSHWA-compliant “open-source hardware” because of the NC term.
 - Third-party files retain their original licenses.
+
+
+
