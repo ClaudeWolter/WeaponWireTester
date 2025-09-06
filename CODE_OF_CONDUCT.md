@@ -3,67 +3,72 @@
 **Repository:** https://github.com/pietwauters/WeaponWireTester  
 **Maintainers:** © 2022–2025 Piet Wauters & Claude Wolter
 
-We are a technical project rooted in the world of **sport**. We expect everyone to act with **fair play, respect, and integrity**—on and off the piste, online and offline.
+We are a technical project rooted in the world of **fencing**. We expect everyone to act with **fair play, clean sport, respect, and integrity**—on and off the piste.
 
-This Code applies to all project spaces: GitHub issues/PRs, discussions, docs, chats, events, and any official community channel.
+This Code applies to all project spaces: GitHub issues/PRs, discussions, docs, and any project-affiliated interactions at **tournaments, training venues/salles d’armes, clubs, and activities involving maîtres d’armes, referees, DTs, and SEMI officials**.
 
 ---
 
 ## Our values
 
-- **Fair play & clean sport.** We do not tolerate cheating, doping culture, equipment tampering, or attempts to subvert safety/rules. We celebrate sportsmanship, transparency, and respect for referees, organizers, and volunteers.
-- **Safety & inclusion.** Create a welcoming environment for people of all ages, backgrounds, and experience levels.
+- **Fair play & clean sport.** No tolerance for cheating, equipment tampering, or doping culture. We uphold the spirit and letter of fencing rules.
+- **Safety & inclusion.** Foster a welcoming, safe environment for all participants, including youth.
 - **Technical integrity.** Seek truth in data, cite sources, reproduce results, and correct mistakes openly.
-- **Constructive collaboration.** Be helpful, specific, and kind. Assume good intent; criticize ideas, not people.
+- **Constructive collaboration.** Be helpful, specific, and kind. Critique ideas, not people.
+
+---
+
+## Alignment with FIE/EFC regulations
+
+- Follow the **FIE Rules** (Material & Technical) and the **EFC rules/statuses**, including guidance from their **SEMI commissions**.  
+  - FIE: https://fie.org/fie/documents/rules  
+  - EFC: https://www.eurofencing.info/documents/rules-statuses
+- When in doubt, defer to event **Directoire Technique (DT)** / **SEMI** decisions and local organizers’ instructions.
 
 ---
 
 ## Expected behavior
 
-- Be respectful in language and actions; generously give attribution and credit.
+- Be respectful toward athletes, coaches (maîtres d’armes), referees, DTs, volunteers, and contributors.
 - Keep feedback **actionable** and **evidence-based**.
-- Follow venue rules (tournaments, training venues, clubs,...) and protect participants’ safety.
-- Disclose conflicts of interest when relevant (e.g., vendor ties).
-- Use project resources **ethically** (no backdoors, no test bypasses, no “cheat” features).
+- Protect participant safety and privacy; obtain consent before sharing identifiable data/images.
+- Disclose conflicts of interest relevant to equipment, vendors, or testing.
 
 ---
 
 ## Unacceptable behavior
 
-- Harassment, discrimination, or personal attacks; slurs or demeaning comments.
-- Distributing or promoting **cheating tools**, bypassing regulation/safety features, or instructions to defeat equipment control.
-- Sexually explicit, violent, or hateful content; threats or incitement to violence.
-- Doxing or sharing private information without consent.
-- Spamming, derailment, or persistent off-topic promotion.
+- Harassment, discrimination, personal attacks; slurs or demeaning comments.
+- **Cheating/technical misconduct:** distributing or promoting tools/instructions that falsify signals, bypass weapon control, undermine scoring devices, or defeat rule-mandated tests.
+- Doping advocacy, or attempts to normalize rule-breaking that endangers athletes or officials.
+- Hateful or violent content; threats; doxing; persistent off-topic spam.
 
 ---
 
 ## Political plurality & extremist content
 
-We welcome a **plurality of political opinions** and ask that project spaces remain focused on our technical and sporting goals. The following is **not permitted** in project spaces:
+We welcome a **plurality of political opinions** while keeping project spaces focused on technical and sporting goals. The following is **not permitted** here:
 
-- Partisan campaigning or organizing unrelated to the project’s goals.
-- Advocacy for, or organizing on behalf of, far-left or far-right **extremist** ideologies or organizations, particularly those that promote violence, authoritarianism, or systematic discrimination.
+- Partisan campaigning unrelated to fencing or project objectives.
+- Advocacy for, or organizing on behalf of, **far-left or far-right extremist** ideologies/organizations—especially those promoting violence, authoritarianism, or systemic discrimination.
 - Symbols, slogans, or propaganda commonly associated with such extremist movements.
 
-> **Note:** Enforcement focuses on **behavior within project spaces**. We do not police lawful private beliefs; however, accounts primarily used to promote extremist content here may be removed.
-
-**Working definition (for moderation purposes):** “Far-left/right extremist” refers to movements that reject pluralistic democracy and universal human rights, endorse or justify political violence, or call for the elimination, segregation, or systemic oppression of groups.
+> **Note:** Enforcement targets **behavior in project spaces**. We do not police lawful private beliefs; however, accounts primarily used to promote extremist content here may be removed.
 
 ---
 
 ## Anti-cheating & equipment integrity
 
-- Do **not** use this project to develop, promote, or distribute tools that enable cheating, falsify signals, or bypass weapon control and safety standards.
-- Vulnerability reports that pose safety risks should be handled responsibly: report privately first; coordinate disclosure with maintainers and relevant sport bodies when appropriate.
+- Do **not** use this project to develop, promote, or distribute cheating tools or methods to evade FIE/EFC equipment controls.
+- **Responsible disclosure:** If you discover a safety-relevant vulnerability (hardware, firmware, test protocol), report privately (see **Reporting**) and coordinate disclosure with maintainers and, where appropriate, **SEMI** officials.
 
 ---
 
 ## Scope
 
-This Code applies to:
-- All official project venues (GitHub repo, discussions, docs, community chats).
-- Official events, workshops, and demos.
+This Code covers:
+- The GitHub repository, discussions, and documentation.
+- Project-affiliated demos, tests, and interactions at **tournaments**, **training venues**, and **clubs** involving maîtres d’armes, referees, DTs, or SEMI.
 - Any public representation of the project by maintainers or contributors.
 
 ---
@@ -72,13 +77,14 @@ This Code applies to:
 
 If you experience or witness a violation:
 
-- **Email (confidential):** **cwolter@fencing-efc.eu**  
-- **Or** open a minimal **private security advisory** in GitHub and request CoC review.  
-- If needed, open a public issue titled **“CoC report (redacted)”** with only necessary, non-sensitive facts; a maintainer will contact you privately.
+- **Email (confidential):** **colloid-nougat-42@icloud.com**  
+- **Or** open a minimal **private security advisory** in GitHub requesting CoC review.  
+- If necessary, open a public issue titled **“CoC report (redacted)”** with only non-sensitive facts; a maintainer will contact you privately.
+- **At events:** where safety or rule integrity is at stake, also inform the **DT/SEMI** on site.
 
 Please include:
 - What happened and where (links/screenshots if available)
-- When it happened and whether it is ongoing
+- When it occurred and whether it is ongoing
 - Any prior context or attempts to resolve
 - Your preferred contact method
 
@@ -86,22 +92,22 @@ We strive to acknowledge reports within **7 days**.
 
 ---
 
-## Enforcement & guidelines
+## Enforcement
 
-Maintainers may take any action they deem appropriate. Typical responses (graduated):
+Maintainers may take actions deemed appropriate. Typical responses:
 
-1. **Correction** — A private, education-oriented note on expected behavior.  
-2. **Warning** — Official warning; continued behavior leads to further action.  
-3. **Temporary restriction** — Mute, limited access, or temporary ban from project spaces.  
-4. **Permanent ban** — Removal from the community; PRs/issues may be locked; reports to hosting providers or event organizers if needed.
+1. **Correction** — Private note on expected behavior  
+2. **Warning** — Official warning  
+3. **Temporary restriction** — Mute/limited access/temporary ban  
+4. **Permanent ban** — Removal from the community; locking PRs/issues; potential reports to hosts or event organizers
 
-**Appeals:** You may request a review of enforcement decisions by replying to the decision email with new or clarifying information.
+**Appeals:** Request a review by replying to the decision email with new or clarifying information.
 
 ---
 
 ## Attribution
 
-This Code of Conduct is adapted from and inspired by the **Contributor Covenant v2.1** (CC BY 4.0) and sport-ethics principles.  
+Adapted from the **Contributor Covenant v2.1** (CC BY 4.0) and sport-ethics principles.  
 Contributor Covenant: https://www.contributor-covenant.org/version/2/1/code_of_conduct/  
 License for this document: **CC BY 4.0** — please attribute “WeaponWireTester Code of Conduct”.
 
@@ -109,5 +115,5 @@ License for this document: **CC BY 4.0** — please attribute “WeaponWireTeste
 
 ## Final notes
 
-- This document does not supersede applicable law or venue/event rules.  
-- We reserve the right to update this Code to better serve the community’s safety and values.
+- This Code complements (does not replace) the applicable **FIE/EFC** rules and event/venue policies.  
+- We may update this document to better serve community safety and values.
