@@ -78,12 +78,22 @@ Supports **body cords** and **weapons** (foil, sabre, épée). Lamé continuity 
 
 ---
 
+## Availability (dev leftovers)
+
+From time to time we may have **bare PCBs**, **populated PCBs**, or **complete kits** available from development batches.  
+If you’re interested, **please contact us privately** (do **not** post personal details in public issues):
+
+- 📧 **colloid-nougat-42@icloud.com**
+
+Stock is limited and irregular; first-come, first-served.
+
+---
+
 ## Project status / roadmap
 
 - ✅ Body-cord testing (auto detect, quick + accurate modes)  
 - ✅ Weapon testing (foil/sabre/épée)  
-- 🛠️ Lamé continuity test (**in progress**)
-- 🛠️ New dedicated hardware (**in progress**)
+- 🛠️ Lamé continuity test (**in progress**)  
 
 Contributions welcome — see `CONTRIBUTING.md`.
 
